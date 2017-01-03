@@ -8,8 +8,8 @@
         console.log("Application run");
     });
 
-    //Konfigurerar modulen för att använda ngRoute. 
-    //ngRoute tar hand om vår navigering och binder våra vyer till url-en 
+    //Konfigurerar modulen för att använda ngRoute.
+    //ngRoute tar hand om vår navigering och binder våra vyer till url-en
     application.config(function($routeProvider, $compileProvider, $locationProvider, $sceDelegateProvider) {
 
         //Binder vyer, med tillhörande controllers (om det behövs), till url:en

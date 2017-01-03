@@ -1,5 +1,5 @@
 .portfolio .view {
-    background:#000;
+    background: #79d2a6;
     min-height:800px;
     left:0;
     right:0;
@@ -27,8 +27,9 @@
 }
 
 .portfolio-menu .menu-item{
-    background:red;
+    background: #339966;
     padding:5px;
+    padding-right: 7px;
     margin:5px 0;
     display:inline-block;
 
